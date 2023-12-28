@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "colors": "^1.4.0"
+  },
+  "name": "nodejs-do-0",
+  "version": "1.0.0",
+  "description": "Estudando Nodejs",
+  "main": "hello.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BeHaupt/Node.git"
+  },
+  "keywords": [
+    "node",
+    "nodejs",
+    "javascript"
+  ],
+  "author": "Bernardo Haupt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BeHaupt/Node/issues"
+  },
+  "homepage": "https://github.com/BeHaupt/Node#readme"
+}
