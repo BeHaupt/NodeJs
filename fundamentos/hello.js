@@ -1,4 +1,3 @@
-const colors = require ('colors')
+const colors = require("colors");
 
-console.log("Hello world, é nois!" .bgYellow)
-
+console.log('Hello, World!' .bold)
