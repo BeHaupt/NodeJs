@@ -1,2 +1,2 @@
 # NodeJs
- Estudando Node
+ Studing JavaScript in NodeJs.
